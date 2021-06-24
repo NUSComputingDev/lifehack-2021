@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1800fce.chunk.css",
+    "main.js": "/static/js/main.404e01e6.chunk.js",
+    "main.js.map": "/static/js/main.404e01e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09bee754.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09bee754.js.map",
+    "static/css/2.1ca50200.chunk.css": "/static/css/2.1ca50200.chunk.css",
+    "static/js/2.a5dfa21f.chunk.js": "/static/js/2.a5dfa21f.chunk.js",
+    "static/js/2.a5dfa21f.chunk.js.map": "/static/js/2.a5dfa21f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1ca50200.chunk.css.map": "/static/css/2.1ca50200.chunk.css.map",
+    "static/css/main.a1800fce.chunk.css.map": "/static/css/main.a1800fce.chunk.css.map",
+    "static/js/2.a5dfa21f.chunk.js.LICENSE.txt": "/static/js/2.a5dfa21f.chunk.js.LICENSE.txt",
+    "static/media/about.bc9a4fb0.png": "/static/media/about.bc9a4fb0.png",
+    "static/media/comp_club-logo.79cd27bc.png": "/static/media/comp_club-logo.79cd27bc.png",
+    "static/media/csit-logo.fbc6da3c.png": "/static/media/csit-logo.fbc6da3c.png",
+    "static/media/dsta-logo.425edbe7.png": "/static/media/dsta-logo.425edbe7.png",
+    "static/media/education.6304fda8.png": "/static/media/education.6304fda8.png",
+    "static/media/idea1.37e7dadd.svg": "/static/media/idea1.37e7dadd.svg",
+    "static/media/idea2.896b098b.svg": "/static/media/idea2.896b098b.svg",
+    "static/media/idea3.5d01b87c.svg": "/static/media/idea3.5d01b87c.svg",
+    "static/media/lifehack-logo.10bed05c.png": "/static/media/lifehack-logo.10bed05c.png",
+    "static/media/lifehack-logo.38641f57.svg": "/static/media/lifehack-logo.38641f57.svg",
+    "static/media/micron-logo.3f860590.png": "/static/media/micron-logo.3f860590.png",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.cb5ad999.woff2",
+    "static/media/shopee-logo.e6cb5bbe.png": "/static/media/shopee-logo.e6cb5bbe.png",
+    "static/media/soc-logo.061fe4ae.png": "/static/media/soc-logo.061fe4ae.png",
+    "static/media/soccat.bb521b04.png": "/static/media/soccat.bb521b04.png",
+    "static/media/social.b0366b79.png": "/static/media/social.b0366b79.png",
+    "static/media/startit-logo.a37a0cfd.png": "/static/media/startit-logo.a37a0cfd.png",
+    "static/media/timeline.eff5bb4a.png": "/static/media/timeline.eff5bb4a.png",
+    "static/media/websparks-logo.749d93aa.png": "/static/media/websparks-logo.749d93aa.png",
+    "static/media/workshops.78b6aecd.png": "/static/media/workshops.78b6aecd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09bee754.js",
+    "static/css/2.1ca50200.chunk.css",
+    "static/js/2.a5dfa21f.chunk.js",
+    "static/css/main.a1800fce.chunk.css",
+    "static/js/main.404e01e6.chunk.js"
+  ]
+}
