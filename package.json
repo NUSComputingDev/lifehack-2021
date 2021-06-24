@@ -1,6 +1,6 @@
 {
   "name": "lifehack-2021",
-  "homepage": "lifehack.nuscomputing.com",
+  "homepage": "http://lifehack.nuscomputing.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
